@@ -75,7 +75,7 @@
 
             <tr><td>Enter user ID</td><td> <input type="text" name="userid"></td></tr>
             <tr><td>Enter password</td><td> <input type="password" name="pw"></td></tr><br>
-	 <tr><td>Enter age</td><td> <input type="text" name="age"></td></tr><br>
+	
 
             <tr><td> </td><td> <input type="submit" value="login now!" name="login"></td></tr><br>
 
